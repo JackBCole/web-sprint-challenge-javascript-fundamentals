@@ -17,7 +17,7 @@ function myFunction() {
 myFunction();
 
 // Explanation: 
-
+// the internal variable is accessable from nestedFunction because nestedFunction is nested or inside of myFunction.
 
 /* Task 2: Counter */
 
